@@ -47,8 +47,7 @@ Les résultats typiques incluent :
 * Métriques d'évaluation (par exemple, mAP)
 * Détections visuelles sur des images et des vidéos de test
 
-## Remerciements
+## Auteurs
 
-* YOLOv11
-* L'équipe de recherche qui a créé le dataset utilisé
-* Toute autre bibliothèque ou ressource utilisée dans ce projet
+* GHIZLAN Moqim
+* JUILLARD Thibaut
