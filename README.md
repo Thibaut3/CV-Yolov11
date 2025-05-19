@@ -39,9 +39,6 @@ Ce projet a pour but de détecter et de localiser des pigeons, des corbeaux et d
     * Ouvrez le notebook `CV-Eval.ipynb` dans Jupyter Notebook.
     * Suivez les instructions dans le notebook pour charger le modèle entraîné, configurer les paramètres d'évaluation et évaluer les performances du modèle sur des images et des vidéos de test.
 
-## Structure du Répertoire
-
-├── CV-Train.ipynb          # Notebook pour l'entraînement du modèle├── CV-Eval.ipynb           # Notebook pour l'évaluation du modèle├── data/                   # Répertoire pour les datasets│   ├── train/              # Dossier pour les images d'entraînement│   └── val/                # Dossier pour les images de validation├── models/                 # Répertoire pour les modèles entraînés├── requirements.txt        # Liste des dépendances├── README.md               # Ce fichier└── ...
 ## Résultats
 
 Les résultats typiques incluent :
